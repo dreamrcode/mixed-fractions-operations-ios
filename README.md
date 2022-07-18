@@ -1,10 +1,11 @@
 # mixed-fractions-operations-ios
 
-<p/>Simple iOS Application that performs operations for mixed fractions. <br>
-Legal operators are * (multiplication),  / (division),  + (addition),  - (subtraction), and  % (modulo). <br>
+<p/>Simple iOS Application that performs operations for mixed fractions.<br>
+User may enter operation in text field, click calculate, and the results will be displayed as an alert.<br>
+Legal operators are * (multiplication),  / (division),  + (addition),  - (subtraction), and  % (modulo).<br>
 Operands and operators are to be separated by one or more spaces.<br>
-Mixed numbers are represented by Whole&Numerator/Denominator (for example: "3&1/4", and “-1&7/8”). <br>
-Improper fractions, whole numbers, and negative numbers are allowed as operands. <p/>
+Mixed numbers are represented by Whole&Numerator/Denominator (for example: "3&1/4", and “-1&7/8”).<br>
+Improper fractions, whole numbers, and negative numbers are allowed as operands.<p/>
 
 <h2>Example Operations</h2>
 
